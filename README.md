@@ -1,7 +1,7 @@
 # Election
-### Election Manage System
+### Election Management System
 
-I have build a election manage system ' in this project i used everything i learned in c++ :
+I have build a election management system ' in this project i used everything i learned in c++ :
 OOP: inheritance,polymorphism , encapsulation.
 STL library
 Operators overloading
